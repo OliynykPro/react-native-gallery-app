@@ -29,9 +29,6 @@ export default function App() {
             name="Image"
             component={Image}
           />
-          {/* <ScrollView style={styles.container}>
-<Images nameT="Taras" />
-</ScrollView> */}
         </Stack.Navigator>
       </NavigationContainer>
     </Provider>
